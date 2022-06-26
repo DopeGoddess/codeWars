@@ -13,5 +13,5 @@ var championsLeagueGoals = 10;
 var copaDelReyGoals = 5;
 
 
-var  totalGoals = laLigaGoals + championsLeagueGoals +  copaDelReyGoals;
+var  totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals;
 console.log(totalGoals);
