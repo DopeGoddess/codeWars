@@ -4,11 +4,18 @@ the second time will ass a * to the right side, and so on.
 Finally, return the padded string.*/
 
 function padIt(str,n){
-    var
-    do{
+    //coding here
+    res = str;
+    do {
+      res = "*" + res;
+      n--;
+      if (n > 0) {
+        res += "*";
+        n--;
+      }
+    } while (n > 0); 
+    
+    return res;
+    
+  }
 
-    }while
-    return;
-}
-
-//help me solve this code 
