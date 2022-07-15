@@ -1,17 +1,17 @@
 const myArray = [];
-let i = 5; // including 5 or interger in array
+let i = 5;
 while (i >= 0){
     myArray.push(i);
-    i--;// subracting a number
+    i--;
 }
 console.log(myArray);
-//this is descending of an array including 5
+//this is descending of an array
 
 const myArrays = [];
-let a = 0; // include 0 
-while(a < 5){ //does not include 5 
+let a = 0;
+while(a < 5){
     myArrays.push(a);
-    a++; // adding a number
+    a++;
 }
 console.log(myArrays);
 //ascending order in an array
