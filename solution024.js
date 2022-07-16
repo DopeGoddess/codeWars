@@ -6,5 +6,7 @@ For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9.*/
 
 
 function squareSum(numbers){
-
+  var sum[]= sum **2;
+  if (sum == numbers){
+    return numbers;
 }
