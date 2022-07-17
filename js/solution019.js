@@ -2,10 +2,5 @@
 //Code as fast as you can! You need to double the integer and return it.
 
 function doubleInteger(i){
-    if (i = i * i){
-        return i;
-    }
+    retrun i + i;
 }
-
-console.log(doubleInteger(2));
-console.log(doubleInteger(20));
