@@ -1,12 +1,6 @@
-/*Complete the square sum function so that it squares each number passed into it and then sums the results together.
-
-For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9.*/
-//Fundamentals, list, and arrays 
+//Make a function that will return a greeting statement that uses an input; your program should return, "Hello, <name> how are you doing today?".
 
 
-
-function squareSum(numbers){
-  var sum[]= sum **2;
-  if (sum == numbers){
-    return numbers;
+function greet(name){
+  return "Hello, " + name + "" + " how are you doing today?"
 }
