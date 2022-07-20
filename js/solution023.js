@@ -6,13 +6,14 @@ I've defined two array odd and even in the function, and also wrote the return s
 
 //producing even for loop
 const ourArray = [];
-for (let i = 0; i +=2) {
+for (let i = 0; i < 10;  i +=2) {
 
 }
 
 //producing odd 
+const myArray= [];
 
-for(let i = 1; i +=2) {
+for(let i = 1; i < 10; i +=2) {
  
 }
 
