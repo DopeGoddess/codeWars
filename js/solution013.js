@@ -10,3 +10,11 @@ function areYouPlayingBanjo(name) {
   }
 //my issue was the index still learning; access the string of specfic letter
 //need practice to apply tertary and ticks
+//Refactor TIME
+function  areYouPlayingBanjo(name){
+    if (name[0] == 'R' || name[0] == 'r')
+      return name + " plays banjo";
+    return name + " does not play banjo";
+}
+//works the samw way without the else in the problem 
+    
