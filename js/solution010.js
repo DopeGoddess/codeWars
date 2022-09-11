@@ -7,3 +7,9 @@ function helloWorld() {
 
 }
 helloWorld();
+
+//Refector 
+const helloWorld = () => {
+    const str = "Hello World!";
+}
+helloWorld();
